@@ -1,5 +1,5 @@
 body {
-    font: 13px/20px "Lucida Grande", Tahoma, Verdana, sans-serif;
+    font: 13px/20px Arial, Helvetica, sans-serif;
     color: #404040;
     background: pink;
   }
@@ -83,13 +83,12 @@ body {
   .login-help {
     margin: 20px 0;
     font-size: 11px;
-    color: white;
+    color: black;
     text-align: center;
-    text-shadow: 0 1px #2a85a1;
   }
   
   .login-help a {
-    color: #cce7fa;
+    color:#5d3cef;
     text-decoration: none;
   }
   
@@ -108,7 +107,7 @@ body {
   }
   
   input {
-    font-family: 'Lucida Grande', Tahoma, Verdana, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
   }
   
@@ -129,7 +128,7 @@ body {
   }
   
   input[type=text]:focus, input[type=password]:focus {
-    border-color: #7dc9e2;
+    border-color: pink;
     outline-color: #dceefc;
     outline-offset: 0;
   }
@@ -139,11 +138,11 @@ body {
     height: 29px;
     font-size: 12px;
     font-weight: bold;
-    color: #527881;
+    color: black;
     text-shadow: 0 1px #e3f1f1;
     background: #cde5ef;
     border: 1px solid;
-    border-color: #b4ccce #b3c0c8 #9eb9c2;
+    border-color: pink;
     border-radius: 16px;
     outline: 0;
     -webkit-box-sizing: content-box;
